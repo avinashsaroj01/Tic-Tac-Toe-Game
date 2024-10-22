@@ -1,5 +1,5 @@
 <h1>Tic-Tac-Toe Game</h1>
-  <a href="https://tic-tac-toe-game0208.netlify.app/">Click here to play the game</a>
+  <a href="https://tic-tac-toe-game0208.netlify.app/">Click here to play </a>
 
 <h2>Description</h2>
 <p>
